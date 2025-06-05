@@ -77,5 +77,4 @@ The API provides standardized error responses. Each error response includes:
 - `message`: Description of the error
 - `data`: Additional data if applicable
 
-## Testing
-To run the tests for this project, use:
+
